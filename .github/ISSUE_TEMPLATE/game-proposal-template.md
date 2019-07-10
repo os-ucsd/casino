@@ -1,8 +1,8 @@
 ---
 name: Game Proposal Template
 about: 'Want to add a new game to the casino? Make your Proposal here! :game_die:'
-title: 'Proposal: Add GAME to the casino'
-labels: ''
+title: 'Proposal: Add {{GAME}} to the casino'
+labels: Game proposal
 assignees: asg017
 
 ---
