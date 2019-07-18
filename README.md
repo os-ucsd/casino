@@ -16,6 +16,7 @@ A "game" in our casino will be some code that's hosted in this repository that a
 |Name|Creator|Issue #|Status
 |:-|:-|-|- 
 |[Grade or No Grade](games/grade-or-no-grade)|[@AlvinNgo123](https://github.com/AlvinNgo123)|[#10](https://github.com/os-ucsd/casino/issues/10)|🚧 In Progress
+|[Breakout](games/breakout)|[@cqvu](https://github.com/cqvu)|[#7](https://github.com/os-ucsd/casino/issues/7)|🚧 In Progress
 
 
 ## Contributing
