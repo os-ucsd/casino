@@ -11,6 +11,13 @@ This repository will host a suite of different games created by different people
 A "game" in our casino will be some code that's hosted in this repository that a player can run. A game could be written in any language and can be built from scratch or remixed from another open sourced game. Anyone can add their own game to the casino - see the Contributing section below!
 
 
+## Games
+
+|Name|Creator|Issue #|Status
+|:-|:-|-|- 
+|[Grade or No Grade](games/grade-or-no-grade)|[@AlvinNgo123](https://github.com/AlvinNgo123)|[#10](https://github.com/os-ucsd/casino/issues/10)|🚧 In Progress
+
+
 ## Contributing
 
 ### Proposing a new game
